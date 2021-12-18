@@ -1,4 +1,9 @@
 # Tic-Tac-Toe
+# Project title:
+Tic-Tac-Toe A.I.
+# Technical requirement:
+Prolog -> SWI prolog
+Python -> VS code
 # Project Description:
 A Tic-Tac-Toe Artificial Intelligence program that tells what is the best move to win the game with an explanation of the A.I. generated outcome. This is the program where you can practice how to play Tic-Tac-Toe with the smartest move and to win within the shortest time. This game implements the Prolog programming language and Python.
 Tic-tac-toe is a very popular game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a vertical, horizontal or diagonal row wins the game.
